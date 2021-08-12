@@ -1,0 +1,172 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    max-width: 899px;
+}
+
+.oswald-text {
+    font-family: "Oswald";
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.indent-para {
+    text-indent: 2em;
+}
+
+#article-title-details h1 {
+    font-size: 45px;
+}
+
+#article-title-details {
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+#print-icon {
+    margin-left: 698px;
+}
+
+#article-print img,
+#article-print p {
+    display: inline-block;
+}
+
+#section-header-left {
+    display: inline-block;
+}
+
+#section-header-left img {
+    display: inline-block;
+}
+
+#brand-text {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+#header-left-slogan {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+#section-header-left-text {
+    display: inline-block;
+    font-family: 'Patrick Hand', monospace;
+}
+
+#section-header-right-social {
+    display: inline-block;
+    float: right;
+    position: relative;
+    margin-left: 412px;
+    margin-top: -35px;
+}
+
+#section-header-right-social ul {
+    display: inline;
+    list-style: none;
+}
+
+#section-header-right-social ul li {
+    display: inline;
+}
+
+#main-pics {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+#rss {
+    display: inline-block;
+}
+
+.two-column-list {
+    background-image: url("https://github.com/NiaSama/chocolate-pizza-1/blob/master/img/list-bg.png?raw=true");
+    list-style: none;
+}
+
+#list-left,
+#list-right {
+    list-style: none;
+    display: inline-block;
+}
+
+#list-left {
+    margin-left: 55px;
+}
+
+#list-right {
+    margin-left: 170;
+}
+
+#cbox1,
+#cbox2,
+#cbox3,
+#cbox4,
+#cbox5,
+#cbox6,
+#cbox7,
+#cbox8,
+#cbox9,
+#cbox10,
+#cbox11,
+#cbox12 {
+    color: black;
+    text-decoration: line-through;
+}
+
+input[type=checkbox]:checked+label {
+    color: black;
+    text-decoration: line-through;
+}
+
+#auther-bio {
+    display: inline-block;
+    margin-right: 73px;
+}
+
+#article-footer img {
+    display: inline-block;
+    margin-top: 25px;
+}
+
+#button1 {
+    font-family: "Oswald";
+    background: #bc7058;
+    color: white;
+    padding: 9px 36px;
+    display: inline-block;
+}
+
+#ending-footer {
+    margin-top: 35px;
+    margin-bottom: 30px;
+    border-top: thick;
+    border-top-style: solid;
+    border-top-color: gray;
+    border-width: 1px;
+}
+
+#ending-footer p {
+    margin-left: 280px;
+}
+
+#ending-footer img {
+    margin-top: -18px;
+    margin-left: 397px;
+}
+
+#header-hr {
+    background-image: url("https://github.com/LTUC/amman-irbid-201d35/blob/main/class-10/lab-a/lab-assets/hr-img.png?raw=true");
+    background-repeat: repeat;
+    height: 20px;
+}
+
+#footer-hr {
+    background-image: url("https://github.com/LTUC/amman-irbid-201d35/blob/main/class-10/lab-a/lab-assets/hr-img.png?raw=true");
+    background-repeat: repeat;
+    height: 30px;
+}
